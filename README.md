@@ -1,2 +1,2 @@
 # zvvcom
-Repo for the website zvv.com
+Repo for the website https://zvv.com
